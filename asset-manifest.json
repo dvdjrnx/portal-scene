@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yourreponame/static/css/main.30c3c8a4.css",
-    "main.js": "/yourreponame/static/js/main.88671991.js",
-    "index.html": "/yourreponame/index.html",
-    "main.30c3c8a4.css.map": "/yourreponame/static/css/main.30c3c8a4.css.map",
-    "main.88671991.js.map": "/yourreponame/static/js/main.88671991.js.map"
+    "main.css": "/portal-scene/static/css/main.30c3c8a4.css",
+    "main.js": "/portal-scene/static/js/main.88671991.js",
+    "index.html": "/portal-scene/index.html",
+    "main.30c3c8a4.css.map": "/portal-scene/static/css/main.30c3c8a4.css.map",
+    "main.88671991.js.map": "/portal-scene/static/js/main.88671991.js.map"
   },
   "entrypoints": [
     "static/css/main.30c3c8a4.css",
