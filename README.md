@@ -1,4 +1,4 @@
-# Model Animations
+# Portal Scene
 
 ![A low-poly 3D scene of a lantern-lit, fenced pathway leading through rocks and tree stumps to a mysterious stone portal. An axe rests in one of the stumps, and fireflies float against a black sky.](./public/portal-scene.png)
 
